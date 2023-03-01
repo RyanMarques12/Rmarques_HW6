@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 15px;
+    padding: 5px;
+  }
+  
+  header {
+    background-color: lightskyblue;
+    color: black;
+    padding: 30px;
+    margin: 15px;
+  }
+  h2 {
+      background-color: lightskyblue;
+      color: black;
+      padding: 5px;
+      margin: 15px;
+  }
+  h1 {
+      background-color: lightskyblue;
+      color: black;
+      padding: 5px ;
+  
+  }
+  a {
+      background-color: lightskyblue;
+      color: black;
+      padding: 5px;
+  
+  }
+  nav {
+    background-color: lightskyblue;
+    color: black;
+    padding: 5px;
+    margin: 15px;
+    
+  }
+  
+  main {
+    margin: 20px;
+    background-color: lightskyblue;
+    padding: 5px;
+    border-style: solid;
+  }
+  
+  footer {
+    background-color: lightskyblue;
+    color: black;
+    padding: 10px;
+  }
+  
